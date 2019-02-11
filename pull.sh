@@ -3,4 +3,4 @@
 # This software is released under the MIT License, see LICENSE file.
 
 git pull
-read -p "Press [Enter] key to resume."
+read -p "Press [Enter] key to exit."
