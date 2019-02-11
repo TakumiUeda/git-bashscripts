@@ -15,4 +15,4 @@ echo -n Please enter private repositry name:
 read private
 
 git push $private $remote
-read -p "Press [Enter] key to resume."
+read -p "Press [Enter] key to exit."
