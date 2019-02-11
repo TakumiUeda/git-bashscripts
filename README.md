@@ -1,1 +1,3 @@
-﻿MIT Lisence
+﻿#Lisence
+MIT Lisence  
+This software is released under the MIT License, see LICENSE.txt.
