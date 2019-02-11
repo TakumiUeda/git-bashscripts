@@ -3,8 +3,10 @@
 # This software is released under the MIT License, see LICENSE file.
 
 git add .
+
 echo -n Please enter commit message:
 read str
+
 git commit -m "$str"
 git push origin master
 
